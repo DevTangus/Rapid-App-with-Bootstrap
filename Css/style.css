@@ -181,6 +181,13 @@ section {
 .btn {
     padding: 8px 26px;
 }
+#success-btn{
+    background-color: #ff294d;
+}
+.col-md-6 #welcome{
+    color: #051420;
+}
+
 
 .btn-brand {
     border-color: var(--brand);
@@ -189,8 +196,8 @@ section {
 }
 
 .btn-brand:hover {
-    background-color: #d64022;
-    border-color: #d64022;
+    background-color:  #ff294d;
+    border-color: #ff294d;
     color: #fff;
 }
 

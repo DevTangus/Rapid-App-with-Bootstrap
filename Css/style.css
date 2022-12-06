@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&display=swap');
 
 :root {
-    --brand: #ff4d29;
-    --dark: #092032;
-    --body: #516171;
+    --brand: #ff294d;
+    --dark: #031c30;
+    --body: #818991;
     --border: rgba(0,0,0,0.08);
     --shadow: 0px 6px 30px rgba(0, 0, 0, 0.08);
     
